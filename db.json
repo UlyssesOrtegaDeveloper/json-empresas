@@ -3,7 +3,7 @@
     {"nombre": "Rhenus Logistics, S.A.U", "cif": "A-08211989", "direccion": "C/Area VI Parcela C32 Puerto de Las Palmas", "cp": "CP:35008- Las Palmas de Gran Canaria"},
 
     "vectio":
-    {"nombre": "Vectio Insular", "cif": "A-08211989", "direccion": "C/Area VI Parcela C32 Puerto de Las Palmas", "cp": "CP:35008- Las Palmas de Gran Canaria"}
+    {"nombre": "Vectio Insular", "cif": "A-08211989", "direccion": "C/Area VI Parcela C32 Puerto de Las Palmas", "cp": "CP:35008- Las Palmas de Gran Canaria"},
     
     "hillfood":
     {"nombre": "Hill Food", "cif": "-", "direccion": "-", "cp": "CP:-"}
